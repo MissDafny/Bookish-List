@@ -1,0 +1,33 @@
+.opcoes{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+.opcoes li a:hover {
+    color: #EFC12B; /* Muda a cor do link ao passar o mouse */
+}
+.opcoes li a {
+    color: rgb(255, 250, 250); /* Cor do link */
+    text-decoration: none;
+    font-size: 1em;
+    padding: 10px 0;
+}
+.logo img{
+    height: 40px;
+    width: auto;
+    display: block;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menusuperior {
+    background-color: #20426A; /* Cor de fundo escura */
+    height: 60px; /* Altura do menu */
+    padding: 0 20px; /* Preenchimento horizontal */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
