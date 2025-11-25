@@ -1,2 +1,2 @@
-# Bookish-List
-Este projeto é uma coleção digital pessoal desenvolvida em HTML e CSS, simulando a visualização de uma estante de livros real. O objetivo é apresentar de forma criativa e visualmente atraente os livros lidos ou recomendados, utilizando técnicas para o layout da estante.
+Bookish-List
+Este projeto é uma coleção digital pessoal desenvolvida em HTML e CSS, simulando a visualização de uma estante de livros real. O objetivo é apresentar de forma criativa e visualmente atraente os livros lidos ou recomendados, utilizando técnicas para o layout da estante. É um projeto estático (HTML e CSS) desenvolvido para simular a visualização de uma estante de livros interativa. O objetivo é apresentar uma coleção pessoal de leituras ou recomendações de forma visualmente criativa
